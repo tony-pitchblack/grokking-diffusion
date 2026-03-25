@@ -4,7 +4,7 @@ Hands-on notebooks for grokking diffusion models.
 
 ## Topics
 
-### 01 — Diffusion ✨
+### 01 — Denoising Diffusion Probabilistic Models ✨
 
 In [`01_diffusion/`](01_diffusion/), you’ll find:
 

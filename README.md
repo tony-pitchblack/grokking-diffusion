@@ -1,6 +1,6 @@
-# Deep Learning Course (2026) 🧠
+# Grokking diffusion models 🧠
 
-This repo contains hands-on notebooks for a deep learning course.
+Hands-on notebooks for grokking diffusion models.
 
 ## Topics
 
